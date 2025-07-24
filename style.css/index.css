@@ -1,7 +1,7 @@
 @import "Tailwindcss";
 
 /* share style */
-.container{
+.size{
   max-width: 1140px;
   margin: 0px auto;
   margin-bottom: 150px;
